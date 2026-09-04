@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Analysis Information" section_id="8528cd2e978b4f500642f93de053af98" sys_domain="global" table="problem" version="3" view="workspace-locksmiths-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>primary_known_error_article</element>
+            <position>0</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:39</sys_created_on>
+            <sys_id>0d28cd2e978b4f500642f93de053af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analysis Information" display_value="Analysis Information" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">8528cd2e978b4f500642f93de053af98</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workaround</element>
+            <position>1</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:39</sys_created_on>
+            <sys_id>0128cd2e978b4f500642f93de053af9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analysis Information" display_value="Analysis Information" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">8528cd2e978b4f500642f93de053af98</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cause_notes</element>
+            <position>2</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:39</sys_created_on>
+            <sys_id>8d28cd2e978b4f500642f93de053af9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analysis Information" display_value="Analysis Information" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">8528cd2e978b4f500642f93de053af98</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Analysis Information</caption>
+            <header>false</header>
+            <name>problem</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8528cd2e978b4f500642f93de053af98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>problem</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+            <sys_update_name>sys_ui_section_8528cd2e978b4f500642f93de053af98</sys_update_name>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:39</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Locksmiths 0" name="workspace-locksmiths-0">2a08052e558b4f506c64548f67b416ac</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

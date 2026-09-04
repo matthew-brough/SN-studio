@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="problem" version="2" view="workspace-locksmiths-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <group_by_field/>
+            <list_id display_value="Problem - Workspace Locksmiths 0" name="problem" related_list="NULL" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0288d2e978b4f500642f93de053afb4</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>incident.problem_id</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>70288d2e978b4f500642f93de053afb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <group_by_field/>
+            <list_id display_value="Problem - Workspace Locksmiths 0" name="problem" related_list="NULL" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0288d2e978b4f500642f93de053afb4</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>f4288d2e978b4f500642f93de053afb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <group_by_field/>
+            <list_id display_value="Problem - Workspace Locksmiths 0" name="problem" related_list="NULL" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0288d2e978b4f500642f93de053afb4</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>task_service_offering.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>7c288d2e978b4f500642f93de053afb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <group_by_field/>
+            <list_id display_value="Problem - Workspace Locksmiths 0" name="problem" related_list="NULL" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0288d2e978b4f500642f93de053afb4</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>problem_task.problem</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>f0288d2e978b4f500642f93de053afb6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <group_by_field/>
+            <list_id display_value="Problem - Workspace Locksmiths 0" name="problem" related_list="NULL" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0288d2e978b4f500642f93de053afb4</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>change_request.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>78288d2e978b4f500642f93de053afb6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <group_by_field/>
+            <list_id display_value="Problem - Workspace Locksmiths 0" name="problem" related_list="NULL" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0288d2e978b4f500642f93de053afb4</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>problem.duplicate_of</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>fc288d2e978b4f500642f93de053afb6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <group_by_field/>
+            <list_id display_value="Problem - Workspace Locksmiths 0" name="problem" related_list="NULL" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0288d2e978b4f500642f93de053afb4</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>task_outage.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>3c288d2e978b4f500642f93de053afc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <group_by_field/>
+            <list_id display_value="Problem - Workspace Locksmiths 0" name="problem" related_list="NULL" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0288d2e978b4f500642f93de053afb4</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>m2m_kb_task.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>b0288d2e978b4f500642f93de053afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Problem - Workspace Locksmiths 0</calculated_name>
+            <filter/>
+            <name>problem</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0288d2e978b4f500642f93de053afb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Problem - Workspace Locksmiths 0</sys_name>
+            <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+            <sys_update_name>sys_ui_related_problem_workspace-locksmiths-0</sys_update_name>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Locksmiths 0" name="workspace-locksmiths-0">2a08052e558b4f506c64548f67b416ac</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

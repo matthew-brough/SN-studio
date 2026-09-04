@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>change_task,problem,incident</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>locksmiths Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_2208800_abc_locksmiths_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>joe.penny</sys_created_by>
+        <sys_created_on>2026-09-03 16:00:22</sys_created_on>
+        <sys_id>c918492e978b4f500642f93de053afaa</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_2208800_abc_locksmiths_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_update_name>ais_dictionary_c918492e978b4f500642f93de053afaa</sys_update_name>
+        <sys_updated_by>joe.penny</sys_updated_by>
+        <sys_updated_on>2026-09-03 16:00:24</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Locksmiths">ea08052eb88b4f50862f115412aaccb7</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>joe.penny</sys_created_by>
+        <sys_created_on>2026-09-03 16:00:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2208052e188b4f501f27bdd66d0ecfa5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_update_name>sys_ux_page_property_2208052e188b4f501f27bdd66d0ecfa5</sys_update_name>
+        <sys_updated_by>joe.penny</sys_updated_by>
+        <sys_updated_on>2026-09-03 16:00:19</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_2208800_abc.ea08052eb88b4f50862f115412aaccb7.root.global.wbApplicabilityConfigId</unique_name>
+        <value>4c18c52e978b4f500642f93de053af15</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=2208052e188b4f501f27bdd66d0ecfa5"/>
+</record_update>
