@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Problems">a8bdc74c970a8a10bacc3aece053af12</ais_search_source>
+        <label>Problem</label>
+        <name>Problems</name>
+        <order>200</order>
+        <search_context_config display_value="Locksmiths AI Search Configuration">2208052e508b4f50e8d79dadeadf92ae</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>joe.penny</sys_created_by>
+        <sys_created_on>2026-09-03 16:00:23</sys_created_on>
+        <sys_id>9918492e978b4f500642f93de053affd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Problems</sys_name>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_update_name>sys_search_filter_9918492e978b4f500642f93de053affd</sys_update_name>
+        <sys_updated_by>joe.penny</sys_updated_by>
+        <sys_updated_on>2026-09-03 16:00:23</sys_updated_on>
+    </sys_search_filter>
+</record_update>

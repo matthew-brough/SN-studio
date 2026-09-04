@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b0284d2e978b4f500642f93de053affa" sys_domain="global" table="problem" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3828cd2e978b4f500642f93de053af1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="problem" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0284d2e978b4f500642f93de053affa</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd28cd2e978b4f500642f93de053af78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="problem" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0284d2e978b4f500642f93de053affa</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">8928cd2e978b4f500642f93de053af76</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c928cd2e978b4f500642f93de053af9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="problem" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0284d2e978b4f500642f93de053affa</sys_ui_form>
+            <sys_ui_section caption="Analysis Information" display_value="Analysis Information" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">8528cd2e978b4f500642f93de053af98</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d28cd2e978b4f500642f93de053afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="problem" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0284d2e978b4f500642f93de053affa</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">0928cd2e978b4f500642f93de053af9f</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-03 16:12:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dada01e697cb4f500642f93de053af44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="problem" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">b0284d2e978b4f500642f93de053affa</sys_ui_form>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">c928cd2e978b4f500642f93de053afb5</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:12:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>problem</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0284d2e978b4f500642f93de053affa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>problem</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b0284d2e978b4f500642f93de053affa</sys_update_name>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Locksmiths 0" name="workspace-locksmiths-0">2a08052e558b4f506c64548f67b416ac</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

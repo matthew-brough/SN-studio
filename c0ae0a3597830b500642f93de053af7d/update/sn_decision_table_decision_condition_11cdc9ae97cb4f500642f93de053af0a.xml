@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
+    <sn_decision_table_decision_condition action="INSERT_OR_UPDATE">
+        <decision_input display_value="Service Offering">8dcd016e97cb4f500642f93de053af8a</decision_input>
+        <decision_table display_value="Locksmith Incident Severity">7a8ccdaa97cb4f500642f93de053afd5</decision_table>
+        <default_operator>=</default_operator>
+        <description/>
+        <field/>
+        <field_label/>
+        <field_parent_table/>
+        <label>Service Offering</label>
+        <order>100</order>
+        <parent/>
+        <reference display_value="Offering" name="service_offering">14747e338c5503100a22deb6dd2b4e5f</reference>
+        <sys_class_name>sn_decision_table_decision_condition</sys_class_name>
+        <sys_created_by>Jordan.afolabi2</sys_created_by>
+        <sys_created_on>2026-09-03 16:25:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>11cdc9ae97cb4f500642f93de053af0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_update_name>sn_decision_table_decision_condition_11cdc9ae97cb4f500642f93de053af0a</sys_update_name>
+        <sys_updated_by>Jordan.afolabi2</sys_updated_by>
+        <sys_updated_on>2026-09-03 16:25:15</sys_updated_on>
+        <type display_value="Reference">52a227c1bf3320001875647fcf07396a</type>
+    </sn_decision_table_decision_condition>
+</record_update>

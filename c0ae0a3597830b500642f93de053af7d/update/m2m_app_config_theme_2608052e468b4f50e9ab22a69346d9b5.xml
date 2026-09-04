@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>joe.penny</sys_created_by>
+        <sys_created_on>2026-09-03 16:00:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2608052e468b4f50e9ab22a69346d9b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_update_name>m2m_app_config_theme_2608052e468b4f50e9ab22a69346d9b5</sys_update_name>
+        <sys_updated_by>joe.penny</sys_updated_by>
+        <sys_updated_on>2026-09-03 16:00:14</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="Locksmiths App Config">2a08052e2b8b4f508241c658cc1f3eb6</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>
