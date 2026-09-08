@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="com_glide_security_oauth_jwt_signing">5520d875ff32221099cfffffffffff8e</crypto_module>
+        <key_type display_value="Private Signature Generation Key">eacabf24c7003300af4d43c6f0976341</key_type>
+        <last_enforced>2026-09-08 14:39:18</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>matthew.brough</sys_created_by>
+        <sys_created_on>2026-09-08 14:39:18</sys_created_on>
+        <sys_id>8275ee00979b83100642f93de053af9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_8275ee00979b83100642f93de053af9b</sys_update_name>
+        <sys_updated_by>matthew.brough</sys_updated_by>
+        <sys_updated_on>2026-09-08 14:39:18</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>

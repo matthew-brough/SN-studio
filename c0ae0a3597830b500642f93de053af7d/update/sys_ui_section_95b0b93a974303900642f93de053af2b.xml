@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Schedule" section_id="95b0b93a974303900642f93de053af2b" sys_domain="global" table="change_request" version="3" view="workspace-locksmith_form_filing-0">
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <name/>
-            <sys_created_by>Margaret</sys_created_by>
-            <sys_created_on>2026-09-03 17:59:50</sys_created_on>
-            <sys_id>4363a9aa978f4f500642f93de053af75</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Margaret</sys_updated_by>
-            <sys_updated_on>2026-09-03 17:59:50</sys_updated_on>
-            <text>&lt;span id="changeRequestDateMsg"&gt;${new ChangeRequestDateMessage(current).getDateMsg()}&lt;/span&gt;</text>
-            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
-        </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>4363a9aa978f4f500642f93de053af75</element>
             <position>0</position>
