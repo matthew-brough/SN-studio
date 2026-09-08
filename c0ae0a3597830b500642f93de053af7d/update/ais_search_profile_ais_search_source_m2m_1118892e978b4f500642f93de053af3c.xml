@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results>
+        <exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results>
+        <exclude_in_regular_search>false</exclude_in_regular_search>
+        <profile display_value="locksmiths Search Profile">e608052ece8b4f503fb0250205400bb7</profile>
+        <search_source display_value="Tasks - Change Tasks">83bf8fe1531201107f03ddeeff7b126f</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>joe.penny</sys_created_by>
+        <sys_created_on>2026-09-03 16:00:24</sys_created_on>
+        <sys_id>1118892e978b4f500642f93de053af3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>locksmiths Search Profile.Tasks - Change Tasks</sys_name>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_1118892e978b4f500642f93de053af3c</sys_update_name>
+        <sys_updated_by>joe.penny</sys_updated_by>
+        <sys_updated_on>2026-09-03 16:00:24</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

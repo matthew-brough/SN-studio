@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Schedule" section_id="95b0b93a974303900642f93de053af2b" sys_domain="global" table="change_request" version="3" view="workspace-locksmith_form_filing-0">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <name/>
+            <sys_created_by>Margaret</sys_created_by>
+            <sys_created_on>2026-09-03 17:59:50</sys_created_on>
+            <sys_id>4363a9aa978f4f500642f93de053af75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Margaret</sys_updated_by>
+            <sys_updated_on>2026-09-03 17:59:50</sys_updated_on>
+            <text>&lt;span id="changeRequestDateMsg"&gt;${new ChangeRequestDateMessage(current).getDateMsg()}&lt;/span&gt;</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>4363a9aa978f4f500642f93de053af75</element>
+            <position>0</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>e5b0b93a974303900642f93de053af42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>1</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>e1b0b93a974303900642f93de053af3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>2</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>e9b0b93a974303900642f93de053af40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_required</element>
+            <position>3</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>65b0b93a974303900642f93de053af3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_date_time</element>
+            <position>4</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>6db0b93a974303900642f93de053af3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>e5b0b93a974303900642f93de053af3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unauthorized</element>
+            <position>6</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>e1b0b93a974303900642f93de053af44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>7</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>edb0b93a974303900642f93de053af3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>8</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>65b0b93a974303900642f93de053af43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_delegate</element>
+            <position>9</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>61b0b93a974303900642f93de053af3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_recommendation</element>
+            <position>10</position>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_id>69b0b93a974303900642f93de053af41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="0b90313a54430390cc9d353e2342a91c">95b0b93a974303900642f93de053af2b</sys_ui_section>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Schedule</caption>
+            <header>false</header>
+            <name>change_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>matthew.brough</sys_created_by>
+            <sys_created_on>2026-09-04 13:36:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95b0b93a974303900642f93de053af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>change_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+            <sys_update_name>sys_ui_section_95b0b93a974303900642f93de053af2b</sys_update_name>
+            <sys_updated_by>matthew.brough</sys_updated_by>
+            <sys_updated_on>2026-09-04 13:36:23</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Locksmith_form_filing 0" name="workspace-locksmith_form_filing-0">0b90313a54430390cc9d353e2342a91c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

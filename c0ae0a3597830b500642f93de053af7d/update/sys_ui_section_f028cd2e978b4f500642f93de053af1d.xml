@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f028cd2e978b4f500642f93de053af1d" sys_domain="global" table="problem" version="3" view="workspace-locksmiths-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>process_flow.xml</element>
+            <position>0</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>f428cd2e978b4f500642f93de053af23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Process Flow">26d719d63b031300ad3cc9bb34efc4ff</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>7428cd2e978b4f500642f93de053af24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>b428cd2e978b4f500642f93de053af52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_reported_by_task</element>
+            <position>3</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>7c28cd2e978b4f500642f93de053af20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>4</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:39</sys_created_on>
+            <sys_id>b028cd2e978b4f500642f93de053af73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <position>5</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>3c28cd2e978b4f500642f93de053af4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_service</element>
+            <position>6</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>b828cd2e978b4f500642f93de053af57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_offering</element>
+            <position>7</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>b028cd2e978b4f500642f93de053af4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>8</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>3028cd2e978b4f500642f93de053af55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>related_incidents</element>
+            <position>9</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>f028cd2e978b4f500642f93de053af25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to.user_name</element>
+            <position>10</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>3428cd2e978b4f500642f93de053af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>f828cd2e978b4f500642f93de053af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>prb_model</element>
+            <position>12</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:39</sys_created_on>
+            <sys_id>3028cd2e978b4f500642f93de053af74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>13</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>b828cd2e978b4f500642f93de053af50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolution_code</element>
+            <position>14</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>3828cd2e978b4f500642f93de053af58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>duplicate_of</element>
+            <position>15</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>3028cd2e978b4f500642f93de053af4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workaround_applied</element>
+            <position>16</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>bc28cd2e978b4f500642f93de053af55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <position>17</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>7028cd2e978b4f500642f93de053af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <position>18</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>b028cd2e978b4f500642f93de053af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>19</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>7828cd2e978b4f500642f93de053af22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>20</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:39</sys_created_on>
+            <sys_id>bc28cd2e978b4f500642f93de053af74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>21</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>3828cd2e978b4f500642f93de053af51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>22</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>3428cd2e978b4f500642f93de053af72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>23</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>bc28cd2e978b4f500642f93de053af4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>24</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>3c28cd2e978b4f500642f93de053af56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>25</position>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_id>fc28cd2e978b4f500642f93de053af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="problem" sys_domain="global" view="2a08052e558b4f506c64548f67b416ac">f028cd2e978b4f500642f93de053af1d</sys_ui_section>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>problem</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>joe.penny</sys_created_by>
+            <sys_created_on>2026-09-03 16:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f028cd2e978b4f500642f93de053af1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>problem</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+            <sys_update_name>sys_ui_section_f028cd2e978b4f500642f93de053af1d</sys_update_name>
+            <sys_updated_by>joe.penny</sys_updated_by>
+            <sys_updated_on>2026-09-03 16:00:38</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Locksmiths 0" name="workspace-locksmiths-0">2a08052e558b4f506c64548f67b416ac</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

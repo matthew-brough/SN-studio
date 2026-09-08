@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">8ab03d3a974303900642f93de053af10</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>3</h>
+        <name/>
+        <required_translations>[{"comment":"","message":"Happening Now","code":"PAR_DASHBOARD.8ab03d3a974303900642f93de053af10.b6b03d3a974303900642f93de053afbd"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>matthew.brough</sys_created_by>
+        <sys_created_on>2026-09-04 13:36:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b6b03d3a974303900642f93de053afbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_update_name>par_dashboard_widget_b6b03d3a974303900642f93de053afbd</sys_update_name>
+        <sys_updated_by>matthew.brough</sys_updated_by>
+        <sys_updated_on>2026-09-04 13:36:28</sys_updated_on>
+        <visualization/>
+        <w>47</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</application>
+        <file_path/>
+        <instance_id>a6c2c062eb6c075c3a48f459bad0cd0c</instance_id>
+        <instance_name>dev396299</instance_name>
+        <name>par_dashboard_widget_b6b03d3a974303900642f93de053afbd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">8ab03d3a974303900642f93de053af10</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>3</h><name/><required_translations>[{"comment":"","message":"Happening Now","code":"PAR_DASHBOARD.8ab03d3a974303900642f93de053af10.b6b03d3a974303900642f93de053afbd"}]</required_translations><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>matthew.brough</sys_created_by><sys_created_on>2026-09-04 13:36:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b6b03d3a974303900642f93de053afbd</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package><sys_policy/><sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope><sys_update_name>par_dashboard_widget_b6b03d3a974303900642f93de053afbd</sys_update_name><sys_updated_by>matthew.brough</sys_updated_by><sys_updated_on>2026-09-04 13:36:28</sys_updated_on><visualization/><w>47</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-712123534</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3e6de132974303900642f93de053af6d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>matthew.brough</sys_created_by>
+        <sys_created_on>2026-09-04 13:36:28</sys_created_on>
+        <sys_id>f6b03d3a974303900642f93de053afcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a06ca292b70000001</sys_recorded_at>
+        <sys_updated_by>matthew.brough</sys_updated_by>
+        <sys_updated_on>2026-09-04 13:36:28</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>b6b03d3a6d430390bdea30f8259573cc</update_guid>
+        <update_guid_history>b6b03d3a6d430390bdea30f8259573cc:-712123534</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5fb07d3a974303900642f93de053afe1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>matthew.brough</sys_created_by>
+        <sys_created_on>2026-09-04 13:36:30</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>373d1965b18e4838b7d2b10be2f0ce40</sys_id>
+        <sys_metadata>b6b03d3a974303900642f93de053afbd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_scope_delete display_value="">5d6844fdb5e249b880f729943cc9bb90</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_b6b03d3a974303900642f93de053afbd</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_b6b03d3a974303900642f93de053afbd">f6b03d3a974303900642f93de053afcd</sys_update_version>
+        <sys_updated_by>matthew.brough</sys_updated_by>
+        <sys_updated_on>2026-09-04 13:36:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

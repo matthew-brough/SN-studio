@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">8ab03d3a974303900642f93de053af10</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Incident","sourceType":"table","tableOrViewName":"incident","filterQuery":"assigned_toISEMPTY^active=true","id":"tableincident1788528985409","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"tableincident1788528985409","id":"tableincident17885289854091788528985415","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>9</h>
+        <name/>
+        <required_translations>[{"comment":"","message":"Incident","code":"PAR_DASHBOARD.8ab03d3a974303900642f93de053af10.42b03d3a974303900642f93de053af21"},{"comment":"","message":"Unassigned Tasks","code":"PAR_DASHBOARD.8ab03d3a974303900642f93de053af10.42b03d3a974303900642f93de053af21"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>matthew.brough</sys_created_by>
+        <sys_created_on>2026-09-04 13:36:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>42b03d3a974303900642f93de053af21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_update_name>par_dashboard_widget_42b03d3a974303900642f93de053af21</sys_update_name>
+        <sys_updated_by>matthew.brough</sys_updated_by>
+        <sys_updated_on>2026-09-04 13:36:28</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <widget_props/>
+        <x>16</x>
+        <y>3</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</application>
+        <file_path/>
+        <instance_id>a6c2c062eb6c075c3a48f459bad0cd0c</instance_id>
+        <instance_name>dev396299</instance_name>
+        <name>par_dashboard_widget_42b03d3a974303900642f93de053af21</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">8ab03d3a974303900642f93de053af10</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Incident","sourceType":"table","tableOrViewName":"incident","filterQuery":"assigned_toISEMPTY^active=true","id":"tableincident1788528985409","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"tableincident1788528985409","id":"tableincident17885289854091788528985415","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>9</h><name/><required_translations>[{"comment":"","message":"Incident","code":"PAR_DASHBOARD.8ab03d3a974303900642f93de053af10.42b03d3a974303900642f93de053af21"},{"comment":"","message":"Unassigned Tasks","code":"PAR_DASHBOARD.8ab03d3a974303900642f93de053af10.42b03d3a974303900642f93de053af21"}]</required_translations><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>matthew.brough</sys_created_by><sys_created_on>2026-09-04 13:36:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>42b03d3a974303900642f93de053af21</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package><sys_policy/><sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope><sys_update_name>par_dashboard_widget_42b03d3a974303900642f93de053af21</sys_update_name><sys_updated_by>matthew.brough</sys_updated_by><sys_updated_on>2026-09-04 13:36:28</sys_updated_on><visualization/><w>16</w><widget_props/><x>16</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>657115784</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3e6de132974303900642f93de053af6d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>matthew.brough</sys_created_by>
+        <sys_created_on>2026-09-04 13:36:28</sys_created_on>
+        <sys_id>76b03d3a974303900642f93de053af27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a06ca291d70000001</sys_recorded_at>
+        <sys_updated_by>matthew.brough</sys_updated_by>
+        <sys_updated_on>2026-09-04 13:36:28</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>36b03d3a2f430390cece39bd11edc826</update_guid>
+        <update_guid_history>36b03d3a2f430390cece39bd11edc826:657115784</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">4fb07d3a974303900642f93de053afbc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>matthew.brough</sys_created_by>
+        <sys_created_on>2026-09-04 13:36:30</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>85639a8fc545475eac44e3f0b57f93f1</sys_id>
+        <sys_metadata>42b03d3a974303900642f93de053af21</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
+        <sys_scope_delete display_value="">5d6844fdb5e249b880f729943cc9bb90</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_42b03d3a974303900642f93de053af21</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_42b03d3a974303900642f93de053af21">76b03d3a974303900642f93de053af27</sys_update_version>
+        <sys_updated_by>matthew.brough</sys_updated_by>
+        <sys_updated_on>2026-09-04 13:36:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
