@@ -31,11 +31,210 @@
         "instanceId": "_5",
         "name": "Form 5",
         "useByReference": false
+    },
+    {
+        "definitionId": "d6c0f4f531825510f8773d3775164e01",
+        "instanceId": "_6",
+        "name": "Form 6",
+        "useByReference": false
     }
 ]</bundles>
         <category>page</category>
         <component_dependencies/>
         <composition>[
+    {
+        "bundleLink": {
+            "bundleInstanceId": "_6",
+            "elementType": "member",
+            "originalElementId": "modalContainerViewport"
+        },
+        "definition": {
+            "id": "61c315e9ccb8970546c30f3e2da41a32",
+            "type": "MACROPONENT_VIEWPORT"
+        },
+        "elementId": "modalcontainerviewport_4",
+        "elementLabel": "Modal Container (Viewport) 4",
+        "eventMappings": [],
+        "extensionPoints": [
+            {
+                "controllerElementId": "address_registration",
+                "name": "Record page modals",
+                "sysId": "e38960c1c30301103581a5a1d840dd45"
+            }
+        ],
+        "isHero": false,
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "isNonDestructive": false,
+        "items": [],
+        "overrides": null,
+        "preset": {
+            "controllerElementId": "address_registration",
+            "disabledEventTargetIds": [],
+            "id": "b76d5b8043432110379ea5dccbb8f297"
+        },
+        "propertyValues": {},
+        "slot": null,
+        "styles": {
+            "width": "100%"
+        }
+    },
+    {
+        "bundleLink": {
+            "bundleInstanceId": "_6",
+            "elementType": "member",
+            "originalElementId": "reference_info_popover"
+        },
+        "definition": {
+            "id": "de328a48e97cdcc50a5043e029bf0a66",
+            "type": "MACROPONENT"
+        },
+        "elementId": "reference_info_popover_4",
+        "elementLabel": "Reference Info Popover 4",
+        "eventMappings": [],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "overrides": {
+            "composition": [
+                {
+                    "bundleLink": {
+                        "bundleInstanceId": "_6",
+                        "elementType": "member",
+                        "originalElementId": "reference_info_content"
+                    },
+                    "definition": {
+                        "id": "d356d14b6e293a3020a244b63d278d8f",
+                        "type": "MACROPONENT"
+                    },
+                    "elementId": "reference_info_content_4",
+                    "elementLabel": "Reference Info Content 4",
+                    "eventMappings": [],
+                    "isHidden": {
+                        "type": "JSON_LITERAL",
+                        "value": null
+                    },
+                    "overrides": {
+                        "composition": [
+                            {
+                                "bundleLink": {
+                                    "bundleInstanceId": "_6",
+                                    "elementType": "member",
+                                    "originalElementId": "open_record_button"
+                                },
+                                "definition": {
+                                    "id": "d37ce8abca89d02905fed903c8e34d8e",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "open_record_button_4",
+                                "elementLabel": "Open Record Button 4",
+                                "eventMappings": [],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": {
+                                    "controllerElementId": "address_registration",
+                                    "id": "2c9b775ba59d59482acacfd67c793517"
+                                },
+                                "propertyValues": {
+                                    "configAria": {}
+                                },
+                                "slot": null,
+                                "styles": null
+                            },
+                            {
+                                "bundleLink": {
+                                    "bundleInstanceId": "_6",
+                                    "elementType": "member",
+                                    "originalElementId": "display_only_record_form"
+                                },
+                                "definition": {
+                                    "id": "f4d3254a798ef092d9023d408f257789",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "display_only_record_form_4",
+                                "elementLabel": "Display Only Form 4",
+                                "eventMappings": [],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": {
+                                    "controllerElementId": "address_registration",
+                                    "id": "d47e3591999fa213338037c11623e30f"
+                                },
+                                "propertyValues": {},
+                                "slot": null,
+                                "styles": null
+                            }
+                        ],
+                        "layout": {
+                            "default": {
+                                "children": null,
+                                "items": [
+                                    {
+                                        "element_id": "open_record_button_4",
+                                        "styles": {
+                                            "align-self": "flex-end",
+                                            "position": "absolute",
+                                            "z-index": "99"
+                                        }
+                                    },
+                                    {
+                                        "element_id": "display_only_record_form_4",
+                                        "styles": {
+                                            "min-height": "80px",
+                                            "min-width": "504px"
+                                        }
+                                    }
+                                ],
+                                "root": null,
+                                "rules": null,
+                                "styles": {
+                                    "align-items": "stretch",
+                                    "display": "flex",
+                                    "flex-direction": "column",
+                                    "margin": "var(--now-scalable-space--md)",
+                                    "padding-inline-end": "calc(var(--now-scale-space--sm, 1)*0.5rem)",
+                                    "padding-top": "calc(var(--now-scale-space--sm, 1)*0.5rem)"
+                                },
+                                "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+                                "type": "flex"
+                            },
+                            "version": "3.0.0"
+                        }
+                    },
+                    "preset": null,
+                    "propertyValues": {
+                        "hideEmptyStateUi": true,
+                        "includeAriaHeading": false,
+                        "slotWrapperBehavior": "fullheight",
+                        "type": "section"
+                    },
+                    "slot": "content",
+                    "styles": {
+                        "width": "250px"
+                    }
+                }
+            ]
+        },
+        "preset": {
+            "controllerElementId": "address_registration",
+            "id": "79ebea45f4861cca5a2606fb0217d3a6"
+        },
+        "propertyValues": {
+            "configAria": {},
+            "positions": {
+                "type": "JSON_LITERAL"
+            }
+        },
+        "slot": null,
+        "styles": null
+    },
     {
         "bundleLink": {
             "bundleInstanceId": "_5",
@@ -814,6 +1013,101 @@
                             },
                             {
                                 "bundleLink": {
+                                    "bundleInstanceId": "_6",
+                                    "elementType": "root",
+                                    "originalElementId": "domain_form_layout"
+                                },
+                                "definition": {
+                                    "id": "b6151414a3cbd00c6e3421d3dee5de8b",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "domain_form_layout_4",
+                                "elementLabel": "Domain Form Layout 4",
+                                "eventMappings": [],
+                                "extensionPoints": [],
+                                "isHero": false,
+                                "isNonDestructive": false,
+                                "items": [],
+                                "overrides": null,
+                                "preset": {
+                                    "controllerElementId": "address_registration",
+                                    "disabledEventTargetIds": [],
+                                    "id": "83581462835c111ce7b6f31b42c23b26"
+                                },
+                                "propertyValues": {},
+                                "slot": null,
+                                "styles": null
+                            },
+                            {
+                                "bundleLink": {
+                                    "bundleInstanceId": "_6",
+                                    "elementType": "root",
+                                    "originalElementId": "form_default"
+                                },
+                                "definition": {
+                                    "id": "cdf8d604a3fda59e69ccd6dd407263d6",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "form_default_4",
+                                "elementLabel": "Form Default 4",
+                                "eventMappings": [],
+                                "extensionPoints": [],
+                                "isHero": false,
+                                "isNonDestructive": false,
+                                "items": [],
+                                "overrides": null,
+                                "preset": {
+                                    "controllerElementId": "address_registration",
+                                    "disabledEventTargetIds": [],
+                                    "id": "187b98f917f400e17ab765dee8b4fb04"
+                                },
+                                "propertyValues": {
+                                    "disableCollapse": {
+                                        "type": "JSON_LITERAL",
+                                        "value": false
+                                    },
+                                    "inRecordPageTab": {
+                                        "type": "JSON_LITERAL",
+                                        "value": false
+                                    },
+                                    "inUiBuilder": {
+                                        "type": "JSON_LITERAL",
+                                        "value": true
+                                    },
+                                    "isContextMenuHidden": {
+                                        "type": "JSON_LITERAL",
+                                        "value": false
+                                    },
+                                    "isFieldContextMenuHidden": {
+                                        "type": "JSON_LITERAL",
+                                        "value": true
+                                    },
+                                    "isFormOptionsHidden": {
+                                        "type": "JSON_LITERAL",
+                                        "value": false
+                                    },
+                                    "isRemovePaddingLeft": {
+                                        "type": "JSON_LITERAL",
+                                        "value": false
+                                    },
+                                    "isSectionMenuHidden": {
+                                        "type": "JSON_LITERAL",
+                                        "value": false
+                                    },
+                                    "isSectionTitleHidden": {
+                                        "type": "JSON_LITERAL",
+                                        "value": false
+                                    },
+                                    "scrollableHost": {
+                                        "type": "JSON_LITERAL",
+                                        "value": null
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            },
+                            {
+                                "bundleLink": {
                                     "bundleInstanceId": "_3",
                                     "elementType": "root",
                                     "originalElementId": "domain_form_layout"
@@ -838,6 +1132,107 @@
                                 "propertyValues": {},
                                 "slot": null,
                                 "styles": null
+                            },
+                            {
+                                "definition": {
+                                    "id": "d37ce8abca89d02905fed903c8e34d8e",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "button_4",
+                                "elementLabel": "Button 4",
+                                "eventMappings": [
+                                    {
+                                        "eventMappingId": "UFvSaawBQAUrTjjikAEUlNWeuQ",
+                                        "isConfiguration": false,
+                                        "offRowStorageId": null,
+                                        "sourceEventApiName": "sn_button.NOW_BUTTON#CLICKED",
+                                        "sourceEventCorrelationId": null,
+                                        "sourceEventDefinition": {
+                                            "apiName": "sn_button.NOW_BUTTON#CLICKED",
+                                            "id": null,
+                                            "type": "UXEVENT"
+                                        },
+                                        "sourceEventSysId": null,
+                                        "targets": [
+                                            {
+                                                "broker": null,
+                                                "clientScript": null,
+                                                "clientTransformScript": "",
+                                                "conditional": null,
+                                                "declarativeAction": null,
+                                                "event": null,
+                                                "operation": {
+                                                    "dataBrokerId": "029f04e053610110ac9bddeeff7b1294",
+                                                    "operationName": "CTRL_RECORD#SAVE_FORM",
+                                                    "parentResourceId": "address_registration",
+                                                    "payload": {
+                                                        "type": "JSON_LITERAL",
+                                                        "value": {}
+                                                    }
+                                                },
+                                                "targetId": "craaddrveNCkLbjjyEJTkuNDLiW",
+                                                "type": "DATABROKER_OP"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "active": {
+                                        "type": "JSON_LITERAL",
+                                        "value": false
+                                    },
+                                    "animatedIcon": {
+                                        "type": "JSON_LITERAL",
+                                        "value": null
+                                    },
+                                    "configAria": {
+                                        "type": "JSON_LITERAL",
+                                        "value": null
+                                    },
+                                    "disabled": {
+                                        "type": "JSON_LITERAL",
+                                        "value": false
+                                    },
+                                    "icon": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "save-outline"
+                                    },
+                                    "label": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "Save User"
+                                        }
+                                    },
+                                    "landmark": {
+                                        "type": "JSON_LITERAL",
+                                        "value": null
+                                    },
+                                    "size": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "md"
+                                    },
+                                    "tooltipContent": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "Enter a label"
+                                        }
+                                    },
+                                    "variant": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "primary-positive"
+                                    }
+                                },
+                                "slot": null,
+                                "styles": {}
                             }
                         ],
                         "layout": {
@@ -856,8 +1251,23 @@
                                         }
                                     },
                                     {
+                                        "element_id": "domain_form_layout_4",
+                                        "styles": {}
+                                    },
+                                    {
+                                        "element_id": "form_default_4",
+                                        "styles": {}
+                                    },
+                                    {
                                         "element_id": "domain_form_layout",
                                         "styles": {}
+                                    },
+                                    {
+                                        "element_id": "button_4",
+                                        "styles": {
+                                            "align-self": "center",
+                                            "flex": "none"
+                                        }
                                     }
                                 ],
                                 "root": null,
@@ -3774,6 +4184,663 @@
             "id": "c22a5b134fb2351043475c11b1ce0ba8"
         },
         "readEvaluationMode": "EAGER"
+    },
+    {
+        "bundleLinks": [
+            {
+                "bundleInstanceId": "_6",
+                "elementType": "controller",
+                "originalElementId": "record"
+            }
+        ],
+        "definition": {
+            "id": "029f04e053610110ac9bddeeff7b1294",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "address_registration",
+        "elementLabel": "Address Registration",
+        "eventMappings": [
+            {
+                "eventMappingId": "form_ctrl_handle_popover_open_requested",
+                "isConfiguration": false,
+                "offRowStorageId": null,
+                "sourceEventApiName": "sn_now_record_form.CTRL_RECORD#POPOVER_OPEN_REQUESTED",
+                "sourceEventCorrelationId": null,
+                "sourceEventDefinition": {
+                    "apiName": "sn_now_record_form.CTRL_RECORD#POPOVER_OPEN_REQUESTED",
+                    "id": null,
+                    "type": "UXEVENT"
+                },
+                "sourceEventSysId": null,
+                "targets": [
+                    {
+                        "broker": null,
+                        "bundleLinks": [
+                            {
+                                "bundleInstanceId": "_6",
+                                "elementType": "eventMappingTarget"
+                            }
+                        ],
+                        "clientScript": null,
+                        "declarativeAction": null,
+                        "event": {
+                            "apiName": "sn_uxf.MACROPONENT_POPOVER_OPEN_REQUESTED",
+                            "payload": {
+                                "container": {
+                                    "popoverElementId": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "[component-id$='reference_info_popover_4']"
+                                    },
+                                    "popoverTargetElementId": {
+                                        "binding": {
+                                            "address": [
+                                                "popoverTriggerElement",
+                                                "nowId"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "popoverTriggerElement": {
+                                        "binding": {
+                                            "address": [
+                                                "popoverTriggerElement"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    }
+                                },
+                                "type": "MAP_CONTAINER"
+                            }
+                        },
+                        "operation": null,
+                        "targetId": "formOpenPopover",
+                        "type": "EVENT"
+                    }
+                ]
+            },
+            {
+                "eventMappingId": "global_event_screen_status_changed_mapping",
+                "isConfiguration": false,
+                "offRowStorageId": null,
+                "sourceEventApiName": "sn_now_record_form.CTRL_RECORD#SCREEN_STATUS_CHANGED",
+                "sourceEventCorrelationId": null,
+                "sourceEventDefinition": {
+                    "apiName": "sn_now_record_form.CTRL_RECORD#SCREEN_STATUS_CHANGED",
+                    "id": null,
+                    "type": "UXEVENT"
+                },
+                "sourceEventSysId": null,
+                "targets": [
+                    {
+                        "broker": null,
+                        "bundleLinks": [
+                            {
+                                "bundleInstanceId": "_6",
+                                "elementType": "eventMappingTarget"
+                            }
+                        ],
+                        "clientScript": null,
+                        "conditional": {
+                            "operation": {
+                                "left": {
+                                    "binding": {
+                                        "address": [
+                                            "address_registration",
+                                            "inputs",
+                                            "isMappedToAppShell"
+                                        ]
+                                    },
+                                    "type": "DATA_OUTPUT_BINDING"
+                                },
+                                "operator": "EQUAL",
+                                "right": {
+                                    "type": "JSON_LITERAL",
+                                    "value": true
+                                }
+                            },
+                            "type": "BINARY"
+                        },
+                        "declarativeAction": null,
+                        "event": {
+                            "apiName": "sn_canvas_core.SCREEN_STATUS_CHANGED",
+                            "payload": {
+                                "container": {
+                                    "hasUpdate": {
+                                        "binding": {
+                                            "address": [
+                                                "hasUpdate"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "icon": {
+                                        "binding": {
+                                            "address": [
+                                                "icon"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "isDirty": {
+                                        "binding": {
+                                            "address": [
+                                                "isDirty"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "message": {
+                                        "binding": {
+                                            "address": [
+                                                "message"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "primaryItem": {
+                                        "binding": {
+                                            "address": [
+                                                "primaryItem"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "screenKey": {
+                                        "binding": {
+                                            "address": [
+                                                "screenKey"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "screenParams": {
+                                        "binding": {
+                                            "address": [
+                                                "screenParams"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "secondaryItems": {
+                                        "binding": {
+                                            "address": [
+                                                "secondaryItems"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "status": {
+                                        "binding": {
+                                            "address": [
+                                                "status"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "title": {
+                                        "binding": {
+                                            "address": [
+                                                "title"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "tooltipPreview": {
+                                        "binding": {
+                                            "address": [
+                                                "tooltipPreview"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    }
+                                },
+                                "type": "MAP_CONTAINER"
+                            },
+                            "sysId": "f71f58643791ec0183da148626eb757d"
+                        },
+                        "operation": null,
+                        "targetId": "clfsrusbggaacchaaddbhhthqjjjjvffe",
+                        "type": "EVENT"
+                    }
+                ]
+            },
+            {
+                "eventMappingId": "form_ctrl_handle_update_configuration_menu_requested",
+                "isConfiguration": false,
+                "offRowStorageId": null,
+                "sourceEventApiName": "sn_now_record_form.CTRL_RECORD#UPDATE_CONFIGURATION_MENU_REQUESTED",
+                "sourceEventCorrelationId": null,
+                "sourceEventDefinition": {
+                    "apiName": "sn_now_record_form.CTRL_RECORD#UPDATE_CONFIGURATION_MENU_REQUESTED",
+                    "id": null,
+                    "type": "UXEVENT"
+                },
+                "sourceEventSysId": null,
+                "targets": [
+                    {
+                        "broker": null,
+                        "bundleLinks": [
+                            {
+                                "bundleInstanceId": "_6",
+                                "elementType": "eventMappingTarget"
+                            }
+                        ],
+                        "clientScript": null,
+                        "conditional": {
+                            "operation": {
+                                "left": {
+                                    "binding": {
+                                        "address": [
+                                            "address_registration",
+                                            "inputs",
+                                            "isMappedToAppShell"
+                                        ]
+                                    },
+                                    "type": "DATA_OUTPUT_BINDING"
+                                },
+                                "operator": "EQUAL",
+                                "right": {
+                                    "type": "JSON_LITERAL",
+                                    "value": true
+                                }
+                            },
+                            "type": "BINARY"
+                        },
+                        "declarativeAction": null,
+                        "event": {
+                            "apiName": "polaris_app_shell.CONTENT_ITEMS_SELECTED",
+                            "payload": {
+                                "container": {
+                                    "items": {
+                                        "binding": {
+                                            "address": [
+                                                "items"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "options": {
+                                        "binding": {
+                                            "address": [
+                                                "options"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "sysId": {
+                                        "binding": {
+                                            "address": [
+                                                "sysId"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "table": {
+                                        "binding": {
+                                            "address": [
+                                                "table"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    }
+                                },
+                                "type": "MAP_CONTAINER"
+                            }
+                        },
+                        "operation": null,
+                        "targetId": "contentItemsSelectedTarget",
+                        "type": "EVENT"
+                    }
+                ]
+            },
+            {
+                "eventMappingId": "form_ctrl_handle_phone_requested",
+                "isConfiguration": false,
+                "offRowStorageId": null,
+                "sourceEventApiName": "sn_now_record_form.CTRL_RECORD#PHONE_REQUESTED",
+                "sourceEventCorrelationId": null,
+                "sourceEventDefinition": {
+                    "apiName": "sn_now_record_form.CTRL_RECORD#PHONE_REQUESTED",
+                    "id": null,
+                    "type": "UXEVENT"
+                },
+                "sourceEventSysId": null,
+                "targets": [
+                    {
+                        "broker": null,
+                        "bundleLinks": [
+                            {
+                                "bundleInstanceId": "_6",
+                                "elementType": "eventMappingTarget"
+                            }
+                        ],
+                        "clientScript": null,
+                        "conditional": {
+                            "operation": {
+                                "left": {
+                                    "binding": {
+                                        "address": [
+                                            "address_registration",
+                                            "inputs",
+                                            "isMappedToAppShell"
+                                        ]
+                                    },
+                                    "type": "DATA_OUTPUT_BINDING"
+                                },
+                                "operator": "EQUAL",
+                                "right": {
+                                    "type": "JSON_LITERAL",
+                                    "value": true
+                                }
+                            },
+                            "type": "BINARY"
+                        },
+                        "declarativeAction": null,
+                        "event": {
+                            "apiName": "polaris_app_shell.RECORD#OPEN_CALL",
+                            "payload": {
+                                "container": {
+                                    "fields": {
+                                        "container": {
+                                            "opened": {
+                                                "type": "JSON_LITERAL",
+                                                "value": true
+                                            }
+                                        },
+                                        "type": "MAP_CONTAINER"
+                                    },
+                                    "iconSelected": {
+                                        "type": "JSON_LITERAL",
+                                        "value": true
+                                    },
+                                    "params": {
+                                        "container": {
+                                            "number": {
+                                                "binding": {
+                                                    "address": [
+                                                        "phoneNumber"
+                                                    ]
+                                                },
+                                                "type": "EVENT_PAYLOAD_BINDING"
+                                            },
+                                            "source": {
+                                                "type": "JSON_LITERAL",
+                                                "value": "form_field"
+                                            },
+                                            "sysId": {
+                                                "binding": {
+                                                    "address": [
+                                                        "sysid"
+                                                    ]
+                                                },
+                                                "type": "EVENT_PAYLOAD_BINDING"
+                                            },
+                                            "table": {
+                                                "binding": {
+                                                    "address": [
+                                                        "table"
+                                                    ]
+                                                },
+                                                "type": "EVENT_PAYLOAD_BINDING"
+                                            }
+                                        },
+                                        "type": "MAP_CONTAINER"
+                                    },
+                                    "route": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "cti"
+                                    }
+                                },
+                                "type": "MAP_CONTAINER"
+                            }
+                        },
+                        "operation": null,
+                        "targetId": "openCallTarget",
+                        "type": "EVENT"
+                    }
+                ]
+            },
+            {
+                "eventMappingId": "srp_ui_ctrl_handle_set_loading_state",
+                "isConfiguration": false,
+                "offRowStorageId": null,
+                "sourceEventApiName": "sn_now_record_form.CTRL_RECORD#FORM_LOADING_STATE_CHANGED",
+                "sourceEventCorrelationId": null,
+                "sourceEventDefinition": {
+                    "apiName": "sn_now_record_form.CTRL_RECORD#FORM_LOADING_STATE_CHANGED",
+                    "id": null,
+                    "type": "UXEVENT"
+                },
+                "sourceEventSysId": null,
+                "targets": [
+                    {
+                        "broker": null,
+                        "bundleLinks": [
+                            {
+                                "bundleInstanceId": "_6",
+                                "elementType": "eventMappingTarget"
+                            }
+                        ],
+                        "clientScript": null,
+                        "conditional": {
+                            "operation": {
+                                "left": {
+                                    "binding": {
+                                        "address": [
+                                            "address_registration",
+                                            "inputs",
+                                            "isMappedToAppShell"
+                                        ]
+                                    },
+                                    "type": "DATA_OUTPUT_BINDING"
+                                },
+                                "operator": "EQUAL",
+                                "right": {
+                                    "type": "JSON_LITERAL",
+                                    "value": true
+                                }
+                            },
+                            "type": "BINARY"
+                        },
+                        "declarativeAction": null,
+                        "event": {
+                            "apiName": "sn_uxf_page.NOW_UXF_PAGE#SET_LOADING_STATE",
+                            "payload": {
+                                "container": {
+                                    "label": {
+                                        "binding": {
+                                            "address": [
+                                                "label"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    },
+                                    "loading": {
+                                        "binding": {
+                                            "address": [
+                                                "loading"
+                                            ]
+                                        },
+                                        "type": "EVENT_PAYLOAD_BINDING"
+                                    }
+                                },
+                                "type": "MAP_CONTAINER"
+                            },
+                            "sysId": "0404f68486f1baab1dc7ef2a27a3de50"
+                        },
+                        "operation": null,
+                        "targetId": "ckfhflaybaaaaaaiddhhhaccccosggrff55",
+                        "type": "EVENT"
+                    }
+                ]
+            }
+        ],
+        "inputValues": {
+            "actionConfigId": {
+                "binding": {
+                    "address": [
+                        "actionConfigId"
+                    ],
+                    "category": "app"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "activityLogs": {
+                "binding": {
+                    "address": [
+                        "activityLogs"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "delayRecommendationFetching": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "detailsContext": {
+                "binding": {
+                    "address": [
+                        "activityLogs"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "fields": {
+                "binding": {
+                    "address": [
+                        "fields"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "forcedViewName": {
+                "binding": {
+                    "address": [
+                        "views"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "headerConfigId": {
+                "binding": {
+                    "address": [
+                        "headerConfigId"
+                    ],
+                    "category": "app"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "highlightedValueConfigId": {
+                "binding": {
+                    "address": [
+                        "highlightedValueConfigId"
+                    ],
+                    "category": "app"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "inputExtraParams": {
+                "binding": {
+                    "address": [
+                        "extraParams"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "inputQuery": {
+                "binding": {
+                    "address": [
+                        "query"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "inputSysId": {
+                "type": "JSON_LITERAL",
+                "value": "-1"
+            },
+            "inputTable": {
+                "type": "JSON_LITERAL",
+                "value": "cmn_location"
+            },
+            "isMappedToAppShell": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "overrideAppContextConfigIds": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "ribbonConfigId": {
+                "binding": {
+                    "address": [
+                        "ribbonConfigId"
+                    ],
+                    "category": "app"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "screen": {
+                "binding": {
+                    "address": [
+                        "screen"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "selectedTabIndex": {
+                "binding": {
+                    "address": [
+                        "selectedTabIndex"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "shouldSuppressGlobalEvents": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "sysparmView": {
+                "binding": {
+                    "address": [
+                        "sysparmView"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "userPrefs": {
+                "binding": {
+                    "address": [
+                        "userPrefs"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "viewRuleConfigId": {
+                "binding": {
+                    "address": [
+                        "viewRuleConfigId"
+                    ],
+                    "category": "app"
+                },
+                "type": "CONTEXT_BINDING"
+            }
+        },
+        "preset": {
+            "id": "c22a5b134fb2351043475c11b1ce0ba8"
+        },
+        "readEvaluationMode": "EAGER"
     }
 ]</data>
         <description/>
@@ -3847,7 +4914,7 @@
         "fieldType": "string",
         "id": "qjooufbbeehhCaabgeeddJgGQaacrcaajj",
         "inherited": false,
-        "label": "table",
+        "label": "Table",
         "mandatory": false,
         "name": "table",
         "readOnly": false,
@@ -4015,14 +5082,14 @@
         <sys_created_by>matthew.brough</sys_created_by>
         <sys_created_on>2026-09-04 13:36:01</sys_created_on>
         <sys_id>0390313a5e43039018ce263ded4bcc16</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Home</sys_name>
         <sys_package display_value="Locksmiths" source="x_2208800_abc">c0ae0a3597830b500642f93de053af7d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Locksmiths">c0ae0a3597830b500642f93de053af7d</sys_scope>
         <sys_update_name>sys_ux_macroponent_0390313a5e43039018ce263ded4bcc16</sys_update_name>
         <sys_updated_by>matthew.brough</sys_updated_by>
-        <sys_updated_on>2026-09-04 15:02:50</sys_updated_on>
+        <sys_updated_on>2026-09-08 14:26:52</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=0390313a5e43039018ce263ded4bcc16"/>
 </record_update>
